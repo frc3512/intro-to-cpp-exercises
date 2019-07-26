@@ -1,0 +1,1 @@
+(Kyle,18) (Matthew,78) (Jin,56) (Ivy,43) (Gabriel,12)
