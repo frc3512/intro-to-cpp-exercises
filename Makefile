@@ -12,10 +12,10 @@
 EXEC := intro-to-cpp-exercises
 
 CC := gcc
-CFLAGS := -O3 -Wall -s -std=c11 -flto
+CFLAGS := -O3 -Wall -s -std=c11
 
 CXX := g++
-CXXFLAGS := -O3 -Wall -s -std=c++17 -flto
+CXXFLAGS := -O3 -Wall -s -std=c++17
 
 # Specify defines with -D directives here
 DEFINES :=
